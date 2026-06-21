@@ -111,6 +111,8 @@ ENV/
 *.png
 *.jpg
 *.jpeg
+*.JPG
+*.PNG
 
 *.model
 
@@ -118,3 +120,5 @@ ENV/
 
 CLAUDE.md
 AGENTS.md
+
+nnUNet_data/*
